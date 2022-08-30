@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    height: 90px;
+  }
+header{
+    background-color: #023047;
+    color: antiquewhite;
+    
+}
+main{
+    background-color: #fb8500;
+}
+aside{
+    background-color: #ffb703;
+}
+footer{
+    background-color: #023047;
+    color: #e9ff70;
+    text-align: center;
+}
+.imagenrest{
+    background-image: url(imagenes/250917__-__Antares_Guemes_ph_G_Viramonte-7896.jpg);
+background-size: contain;
+        border: 2px white;
+        height: 100vh;
+        margin: 7px;
+        animation-timing-function: ease-in;
+     animation-duration: 5s;   
+     animation-iteration-count: infinite;
+     animation-name: imagen
+     
+    ;
+}
+ .imagenrest2{
+    background-image: url(Imagenes/pequena-empresa-familiar-producciones-bebidas-cerveceria-moderna-trabajadores-masculinos-atractivos-jovenes-ocupados-delantales-trabajan-equipos-elaboracion-cerveza-hacen-buena-cerveza-interior-fabric.webp);
+    background-size: contain;
+            border: 2px white;
+            height: 100vh;
+            margin: 7px;
+            animation-timing-function: ease-in;
+         animation-duration: 5s;   
+         animation-iteration-count: infinite;
+         animation-name: imagen
+         
+        ;
+    }
+ .videos{
+    
+
+  width: 600px;
+  height: 480px;
+    
+
+ }
+ .imagenrest3{
+    background-image: url(imagenes/ff.png);
+    background-size: contain;
+    border: 2px white;
+    height: 100vh;
+    margin: 7px;
+    animation-timing-function: ease-in;
+ animation-duration: 5s;   
+ animation-iteration-count: infinite;
+ animation-name: imagen
+ 
+;
+ }
+ a{
+    color: aquamarine ;
+ }
+ul{
+    list-style-type: none;
+}
+li{
+    text-align: center;
+}
+.contact{
+    background-image: url(imagenes/llamada.png);
+    border: 2px white;
+        height: 100px;
+        margin: 2px;
+        padding: 2px;
+        color: black;
+        font-style: oblique;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: 600; font-size: 50px;
+        background-position: initial;
+        background-size: contain;
+        animation-timing-function: ease-in;
+     animation-duration: 5s;   
+     animation-iteration-count: initial;
+     animation-name: imagen;
+}
+.contact2{
+    background-image: url(imagenes/contacto1.webp);
+    border: 2px white;
+        height: 100px;
+        margin: 2px;
+        padding: 2px;
+        color: black;
+        font-style: oblique;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: 600; font-size: 50px;
+        background-position: initial;
+        background-size: contain;
+        animation-timing-function: ease-in;
+     animation-duration: 5s;   
+     animation-iteration-count: initial;
+     animation-name: imagen;
+     
+}
+    
